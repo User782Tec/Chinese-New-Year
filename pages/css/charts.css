@@ -1,0 +1,15 @@
+div {
+    display: inline-block;
+}
+input[type='file'] {
+    display: none;
+}
+html {
+    touch-action: none;
+}
+.flower {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: purple;
+}

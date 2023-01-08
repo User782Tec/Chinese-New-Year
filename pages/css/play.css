@@ -1,0 +1,6 @@
+input[type='file'] {
+    display: none;
+}
+html {
+    touch-action: none;
+}
